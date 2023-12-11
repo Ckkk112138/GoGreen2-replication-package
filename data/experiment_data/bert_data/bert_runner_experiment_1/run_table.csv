@@ -1,0 +1,6 @@
+__run_id,__done,run,avg_cpu,avg_memory,total_energy,total_inference_time
+run_0,DONE,0,0.365,5.774,28954.044,888.943
+run_1,DONE,1,0.351,5.951,29097.376,931.809
+run_2,DONE,2,0.369,5.657,28980.345,884.738
+run_3,DONE,3,0.369,5.638,28936.46,885.239
+run_4,DONE,4,0.361,5.657,29000.968,905.95
