@@ -1,4 +1,4 @@
-# cain-2021-replication-package
+# cain-2024-replication-package
 This repository contains the replication package of the paper **The Impact of Knowledge Distillation on the Performance and Energy Consumption of NLP Models**, published at the International Conference on AI Engineering - Software Engineering for AI (CAIN 2024).
 
 This study has been designed, developed and reported by the folllowing investigators:
