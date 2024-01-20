@@ -2,11 +2,11 @@
 This repository contains the replication package of the paper **The Impact of Knowledge Distillation on the Performance and Energy Consumption of NLP Models**, published at the International Conference on AI Engineering - Software Engineering for AI (CAIN 2024).
 
 This study has been designed, developed and reported by the folllowing investigators:
-- [Ye Yuan](y.yuan3@student.vu.nl) (Vrije Universiteit Amsterdam)
-- [Eloise Zhang](j.zhang6@student.vu.nl) (Vrije Universiteit Amsterdam)
-- [Zongyao Zhang](z.zhang14@student.vu.nl) (Vrije Universiteit Amsterdam)
-- [Kaiwei Chen](k.chen2@student.vu.nl) (Vrije Universiteit Amsterdam)
-- [Jiacheng Shi](j.shi2@student.vu.nl) (Vrije Universiteit Amsterdam)
+- [Ye Yuan](mailto:y.yuan3@student.vu.nl) (Vrije Universiteit Amsterdam)
+- [Eloise Zhang](mailto:j.zhang6@student.vu.nl) (Vrije Universiteit Amsterdam)
+- [Zongyao Zhang](mailto:z.zhang14@student.vu.nl) (Vrije Universiteit Amsterdam)
+- [Kaiwei Chen](mailto:k.chen2@student.vu.nl) (Vrije Universiteit Amsterdam)
+- [Jiacheng Shi](mailto:j.shi2@student.vu.nl) (Vrije Universiteit Amsterdam)
 
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 
