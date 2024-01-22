@@ -50,3 +50,10 @@ If the data or software contained in this replication package is helping your re
 @inproceedings{
 }
 ```
+
+## License
+<!-- As general indication, we suggest to use:
+* [MIT license](https://opensource.org/licenses/MIT) for code-based repositories, and 
+* [Creative Commons Attribution 4.0	(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) for text-based repository (papers, docts, etc.). -->
+
+GoGreen2-replication-package is licensed under the [MIT license](https://opensource.org/licenses/MIT), allowing users to freely use, modify, and distribute the code for various purposes.
