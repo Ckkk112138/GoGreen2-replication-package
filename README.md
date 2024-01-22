@@ -14,7 +14,7 @@ For any information, interested researchers can contact us by sending an email t
 This replication package is organized according to the following structure:
 ```
 ├── README.md: The file you are reading right now.
-├── LICENSE: File describing under which license the content of this repository is being made available.
+├── LICENSE: File describing under which license the repository's content is being made available.
 ├── data                        Data used in the paper 
 │   ├── experiment_data         Dataset generated from the experiment
 │   ├── script                  Script for generating and visualizing the graphs from the dataset
@@ -24,8 +24,27 @@ This replication package is organized according to the following structure:
     └──script                   Code for executing the experiment
 ```
 
+## Quick started
+
+- To get started:
+
+  ```
+  git clone https://github.com/Ckkk112138/GoGreen2-replication-package.git
+  cd GoGreen2-replication-package/
+  pip install -r requirements.txt
+  ```
+
+- To execute the experiment and generate the dataset in `data/experiment_data`:
+
+  `python src/experiment-runner src/script/linux-powerjoular-profiling/RunnerConfig.py`
+
+- To reproduce the results from the dataset:
+
+  `python data/script/<example_test>`
+  Replace `<example_test>` with the actual name of your test file under `data/script` folder.
+  
 ## How to cite this work
-If the data or software contained in this replication package is helping your research, consider to cite it is as follows, thanks!
+If the data or software contained in this replication package is helping your research, consider citing it is as follows, thanks!
 
 ```
 @inproceedings{
